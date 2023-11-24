@@ -1807,7 +1807,7 @@
                     let date = new Date(el.date);
                     let day = date.getDate();
                     if (i + 1 == day) {
-                        obg.tdNameWorker = "Ігорь МАНЗЯК";
+                        obg.tdNameWorker = "Ігор МАНЗЯК";
                         obg.tdStarWork = `8:${Math.floor(Math.random() * 59)}`;
                         obg.tdEndWork = `16:${Math.floor(Math.random() * 59)}`;
                         obg.tdRemainderGasStart = parseFloat(this.endGas);
