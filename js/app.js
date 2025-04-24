@@ -76,6 +76,15 @@
         "master-workhop": "Соколенко Володимир ",
         count: "1.000 ",
         "write-off": "0.000 "
+    },{
+        "id-tool": "1760402001520",
+        "name-tool": "Генкратор дизельний 6КВт",
+        workshops: "ПД-10",
+        model: "АД-4",
+        tool: "Пересувна електростанція 4 кВт (АБ-4)",
+        "master-workhop": "Соколенко Володимир",
+        count: "1.000 ",
+        "write-off": "0.000 "
     }, {
         "id-tool": "1760402000316",
         "name-tool": "Електроагрегат ЕД-2 -Т- 230-1",
@@ -1090,6 +1099,12 @@
         model: "ЕД-4",
         "motor-model": "KM186F",
         norm: [ `1,7` ],
+        name_norm: ""
+    }, {
+        tools: "ZIPPER ZI-STE6700DH",
+        model: "АД-4",
+        "motor-model": "HB186F",
+        norm: [ `2,5` ],
         name_norm: ""
     }, {
         tools: "АД-4Т/230",
